@@ -1,0 +1,7 @@
+C:\Users\Dalky\source\repos\poo\Ejerc10\bin\Debug\Ejerc10.exe.config
+C:\Users\Dalky\source\repos\poo\Ejerc10\bin\Debug\Ejerc10.exe
+C:\Users\Dalky\source\repos\poo\Ejerc10\bin\Debug\Ejerc10.pdb
+C:\Users\Dalky\source\repos\poo\Ejerc10\obj\Debug\Ejerc10.csproj.AssemblyReference.cache
+C:\Users\Dalky\source\repos\poo\Ejerc10\obj\Debug\Ejerc10.csproj.CoreCompileInputs.cache
+C:\Users\Dalky\source\repos\poo\Ejerc10\obj\Debug\Ejerc10.exe
+C:\Users\Dalky\source\repos\poo\Ejerc10\obj\Debug\Ejerc10.pdb
