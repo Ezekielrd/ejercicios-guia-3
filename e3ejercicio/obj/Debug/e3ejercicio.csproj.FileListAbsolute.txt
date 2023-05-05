@@ -1,0 +1,7 @@
+C:\Users\Dalky\source\repos\ejercicios-guia-3\e3ejercicio\bin\Debug\e3ejercicio.exe.config
+C:\Users\Dalky\source\repos\ejercicios-guia-3\e3ejercicio\bin\Debug\e3ejercicio.exe
+C:\Users\Dalky\source\repos\ejercicios-guia-3\e3ejercicio\bin\Debug\e3ejercicio.pdb
+C:\Users\Dalky\source\repos\ejercicios-guia-3\e3ejercicio\obj\Debug\e3ejercicio.csproj.AssemblyReference.cache
+C:\Users\Dalky\source\repos\ejercicios-guia-3\e3ejercicio\obj\Debug\e3ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Dalky\source\repos\ejercicios-guia-3\e3ejercicio\obj\Debug\e3ejercicio.exe
+C:\Users\Dalky\source\repos\ejercicios-guia-3\e3ejercicio\obj\Debug\e3ejercicio.pdb
