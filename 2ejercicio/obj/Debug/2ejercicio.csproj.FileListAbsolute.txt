@@ -1,0 +1,7 @@
+C:\Users\Dalky\OneDrive\Escritorio\2ejercicio\bin\Debug\2ejercicio.exe.config
+C:\Users\Dalky\OneDrive\Escritorio\2ejercicio\bin\Debug\2ejercicio.exe
+C:\Users\Dalky\OneDrive\Escritorio\2ejercicio\bin\Debug\2ejercicio.pdb
+C:\Users\Dalky\OneDrive\Escritorio\2ejercicio\obj\Debug\2ejercicio.csproj.AssemblyReference.cache
+C:\Users\Dalky\OneDrive\Escritorio\2ejercicio\obj\Debug\2ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Dalky\OneDrive\Escritorio\2ejercicio\obj\Debug\2ejercicio.exe
+C:\Users\Dalky\OneDrive\Escritorio\2ejercicio\obj\Debug\2ejercicio.pdb
